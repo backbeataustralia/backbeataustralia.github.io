@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 20
+
+User-agent: *
+Disallow: /assets/
+
+User-agent: *
+Disallow: /
+Allow: /index.html
+Allow: /about.html
+Allow: /engagement.html

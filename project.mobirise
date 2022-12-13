@@ -1240,7 +1240,8 @@
       "settings": {
         "title": "Analysis-as-a-Service",
         "order": 3,
-        "meta_descr": "Subscription analysis - always have talent on tap, and scale up and down as needed to suit your business needs."
+        "meta_descr": "Subscription analysis - always have talent on tap, and scale up and down as needed to suit your business needs.",
+        "header_custom": "<meta name=”robots” content=”noindex”>"
       },
       "components": [
         {
@@ -1982,7 +1983,8 @@
       "settings": {
         "title": "Analysts on Retainer",
         "order": 4,
-        "meta_descr": "Guarantee you've got access to the best talent every month by retaining Backbeat as an ongoing partner to work alongside your organisation."
+        "meta_descr": "Guarantee you've got access to the best talent every month by retaining Backbeat as an ongoing partner to work alongside your organisation.",
+        "header_custom": "<meta name=”robots” content=”noindex”>"
       },
       "components": [
         {
@@ -2635,7 +2637,8 @@
       "settings": {
         "title": "Analysts as Needed",
         "order": 5,
-        "meta_descr": "Have something specific coming up and need dedicated talent to help you deliver? Backbeat can be engaged on fixed-scope or fixed-duration contracts to help you when you need."
+        "meta_descr": "Have something specific coming up and need dedicated talent to help you deliver? Backbeat can be engaged on fixed-scope or fixed-duration contracts to help you when you need.",
+        "header_custom": "<meta name=”robots” content=”noindex”>"
       },
       "components": [
         {
@@ -3288,7 +3291,9 @@
       "settings": {
         "title": "Contact Us",
         "order": 7,
-        "meta_descr": "Get in touch to find out how Backbeat can help your organisation succeed into the future."
+        "meta_descr": "Get in touch to find out how Backbeat can help your organisation succeed into the future.",
+        "socialSharingUrl": "",
+        "header_custom": "<meta name=”robots” content=”noindex”>"
       },
       "components": [
         {
@@ -3901,7 +3906,8 @@
       "settings": {
         "title": "Careers",
         "order": 6,
-        "meta_descr": "Don't just work as an analyst or a project manager, become a professional. With a career at Backbeat, we nurture your professional development because we care about building you and your specialist industry."
+        "meta_descr": "Don't just work as an analyst or a project manager, become a professional. With a career at Backbeat, we nurture your professional development because we care about building you and your specialist industry.",
+        "header_custom": "<meta name=”robots” content=”noindex”>"
       },
       "components": [
         {
